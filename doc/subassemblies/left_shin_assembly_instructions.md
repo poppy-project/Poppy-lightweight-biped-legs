@@ -29,8 +29,8 @@
 - A computer...
 
 
+## Assembly instructions:
 
-## Video instructions:
-Click on the image below to display the video:
-
+- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 2**: Click on the image below to display the video:
 [![video](http://img.youtube.com/vi/b20096-w6yU/0.jpg)](http://youtu.be/b20096-w6yU)
