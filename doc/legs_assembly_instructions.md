@@ -2,7 +2,12 @@
 
 ![](img/legs_CAD_model.jpg)
 
-## 1- Build sub-assemblies
+## 1- Get all components required
+
+First ensure you have all components detailed in the [Bill Of Material](BOM.md).
+Also as a friendly reminder, do not forget to use threadlocker otherwise you will see your robot disassemble itself after just few weeks due to vibration.
+
+## 2- Build sub-assemblies
 
 First you need to assemble several sub-assemblies:
 - **1.1- [Left leg](./subassemblies/left_leg_assembly_instructions.md)**
@@ -11,13 +16,13 @@ First you need to assemble several sub-assemblies:
 
 
 
-## 2- Legs assembly
+## 3- Legs assembly
 
 - Preparation: 5 min
 - Assembly: 10-15 min
 
 
-### 2.1- Requirement:
+### 3.1- Requirement:
 ![](img/legs_assembly_BOM.jpg)
 
 **Sub-assemblies**
@@ -36,7 +41,7 @@ First you need to assemble several sub-assemblies:
 
 
 
-### 2.2- Video instructions:
+### 3.2- Video instructions:
 Click on the image below to display the video:
 
 [![video](http://img.youtube.com/vi/Am1XBYv134Y/0.jpg)](http://youtu.be/Am1XBYv134Y)
