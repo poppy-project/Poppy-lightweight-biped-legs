@@ -5,7 +5,7 @@ This Poppy module include 3D printable parts to create lightweight robotic legs.
 
 It can be used for the [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) or be freely included in any other robotic creatures if you find it relevant.
 
-![leg-model](doc/img/solidworks_document.png)
+![leg-model](doc/img/solidworks_document.PNG)
 
 The design was done using Solidworks (2013-SP5) and is distributed with native formats. 
 
